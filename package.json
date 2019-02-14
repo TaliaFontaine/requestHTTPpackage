@@ -1,0 +1,22 @@
+{
+  "name": "requesthttppackage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "requestPackage.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TaliaFontaine/requestHTTPpackage.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TaliaFontaine/requestHTTPpackage/issues"
+  },
+  "homepage": "https://github.com/TaliaFontaine/requestHTTPpackage#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
